@@ -26,8 +26,6 @@ Hi! My name is Vinicius Justino!
 
 ## Connect with me!
   <a href="https://www.linkedin.com/in/vinicius-justino56/" target="_blank">
-## See my application on Heroku!!
-  <a href="https://dashboard.heroku.com/apps/course-javasb-application" target="_blank">
   <div style="display: inline_block"><br> 
   <img align="center" alt="Vini-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">  
   </a>
