@@ -2,9 +2,9 @@ Olá! Me chamo Vinicius Justino!
 Hi! My name is Vinicius Justino!
 ¡Hola! ¡Mi nombre es Vinicius Justino!
 
-- 🔭 Atualmente trabalho com Desenvolvimento Back-end
-- 🌱 Estou apredendo Java/Springboot
-- 📫 Contate-me pelo E-Mail: visilva569038@gmail.com
+- 🔭 Atualmente trabalho com Desenvolvimento Fullstack
+- 🌱 Spring/Node/Angular
+- 📫 Contate-me pelo E-mail: visilva569038@gmail.com
 
 <div align="center">
   <a href="https://github.com/JustinoVini">
